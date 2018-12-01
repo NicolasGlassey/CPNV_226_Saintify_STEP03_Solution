@@ -1,0 +1,66 @@
+[{
+			"id": "1",
+			"pictureName": "TomOdell.png",
+			"name": "Tom Odell",
+			"listOfSongs": [{
+					"title": "Another Love",
+					"duration": 244
+				},
+				{
+					"title": "Jubilee Road",
+					"duration": 313
+				}
+			]
+		},
+		{
+			"id": "2",
+			"pictureName": "CalvinHarris.png",
+			"name": "Calvin Harris",
+			"listOfSongs": [{
+				"title": "Promises (with San Samith)",
+				"duration": 153
+			}]
+		},
+		{
+			"id": "3",
+			"pictureName": "PhilCollins.png",
+			"name": "PhilCollins",
+			"listOfSongs": [{
+					"title": "In The Air Tonight",
+					"duration": 153
+				},
+				{
+					"title": "You Can't Hurry Love",
+					"duration": 176
+				}
+			]
+		},
+		{
+			"id": "4",
+			"pictureName": "StevieWonder.png",
+			"name": "StevieWonder",
+			"listOfSongs": [{
+					"title": "I Just Called To Say I Love You",
+					"duration": 245
+				},
+				{
+					"title": "A Song For You",
+					"duration": 500
+				}
+			]
+		},
+		{
+			"id": "4",
+			"pictureName": "Saxophone.png",
+			"name": "Saxophone Dreamsound",
+			"listOfSongs": [{
+					"title": "Tears in Heaven",
+					"duration": 220
+				},
+				{
+					"title": "You're Beautiful",
+					"duration": 145
+				}
+			]
+		}
+	]
